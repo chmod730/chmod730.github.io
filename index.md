@@ -1,16 +1,18 @@
 ## Welcome to Steve's Github Page
 
-<br />It's Early June 2020.  We're in the middle of 'another' world meltdown so I decided this would be the ideal time to learn to code 😊
-
-
-I was lucky enough to get on Stanford's ['Code In Place 2020'](https://www.stanforddaily.com/2020/05/07/students-instructors-share-thoughts-on-free-course-code-in-place/) project, which was a blast.  
-
-Now I've ended up down the rabbit hole and using Github and making webpages...WTF is going on.
+<br />It's Early June 2020.  We're in the middle of 'another' world meltdown so I decided this would be the ideal time to learn to code 😊<br /><br />
 
 ![Code in PLace](/img/banner.jpg)
 
 
-<br />I'm leaving these pages here so that I might actually read them at somre point.
+<br />I was lucky enough to get on Stanford's ['Code In Place 2020'](https://www.stanforddaily.com/2020/05/07/students-instructors-share-thoughts-on-free-course-code-in-place/) project, which was a blast.  
+
+Now I've ended up down the rabbit hole and using Github and making webpages...WTF is going on.
+
+
+
+<br /><br /><br /><br /><br /><br /><br /><br />
+I'm leaving these pages here so that I might actually read them at somre point.
 
 You can use the [editor on GitHub](https://github.com/chmod730/chmod730.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
