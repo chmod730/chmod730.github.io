@@ -5,15 +5,15 @@
 ![Code in PLace](/img/banner.jpg)
 
 
-<br>I was lucky enough to get on Stanford's ['Code In Place 2020'](https://www.stanforddaily.com/2020/05/07/students-instructors-share-thoughts-on-free-course-code-in-place/) project, which was a blast.  
+<br>I was lucky enough to get on Stanford's ['Code In Place 2020'](https://www.stanforddaily.com/2020/05/07/students-instructors-share-thoughts-on-free-course-code-in-place/) project, which was a blast. <br> 
 
 Now I've ended up down the rabbit hole and using Github and making webpages...and really enjoying the challenge<br>
 
-looking for a structured learning intro to coding for free?   Check out [Harvard's CS50 course](https://cs50.harvard.edu/x/2020/)<br>
+<br>looking for a structured learning intro to coding for free?   Check out [Harvard's CS50 course](https://cs50.harvard.edu/x/2020/)<br>
 </p>
 
 
-<p><br>
+<p><br><br><br>
 I'm leaving these pages here so that I might actually read them at somre point.
 
 You can use the [editor on GitHub](https://github.com/chmod730/chmod730.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
