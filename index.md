@@ -1,15 +1,20 @@
 ## Welcome to Steve's Github Page
 <p>
-<br />It's Early June 2020.  We're in the middle of 'another' world meltdown so I decided this would be the ideal time to learn to code 😊<brv><br>
+It's Early June 2020.  We're in the middle of 'another' world meltdown so I decided this would be the ideal time to learn to code 😊<br><br>
 
 ![Code in PLace](/img/banner.jpg)
 
 
-<br>I was lucky enough to get on Stanford's ['Code In Place 2020'](https://www.stanforddaily.com/2020/05/07/students-instructors-share-thoughts-on-free-course-code-in-place/) project, which was a blast. <br> 
+<br>
+I was lucky enough to get on Stanford's ['Code In Place 2020'](https://www.stanforddaily.com/2020/05/07/students-instructors-share-thoughts-on-free-course-code-in-place/) project, which was a blast.
+<br> 
 
-Now I've ended up down the rabbit hole and using Github and making webpages...and really enjoying the challenge<br>
+Now I've ended up down the rabbit hole and using Github and making webpages...and really enjoying the challenge
+<br>
 
-<br>looking for a structured learning intro to coding for free?   Check out [Harvard's CS50 course](https://cs50.harvard.edu/x/2020/)<br>
+<br>
+looking for a structured learning intro to coding for free?   Check out [Harvard's CS50 course](https://cs50.harvard.edu/x/2020/)
+<br>
 </p>
 
 
